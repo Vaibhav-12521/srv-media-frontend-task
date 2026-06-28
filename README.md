@@ -1,4 +1,4 @@
-# Premier Schools Exhibition (PSE) — Landing Page
+# Premier Schools Exhibition (PSE) - Landing Page
 
 A pixel-perfect, fully responsive, accessible landing page for the **Premier
 Schools Exhibition**, built for the **SRV Media — Frontend Developer**
