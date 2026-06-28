@@ -221,7 +221,7 @@ h1, h2, h3, p { margin: 0; }
 .hero__photo img { width: 100%; height: 100%; object-fit: cover; }
 @keyframes scroll-up   { from { transform: translateY(0); }   to { transform: translateY(-50%); } }
 @keyframes scroll-down { from { transform: translateY(-50%); } to { transform: translateY(0); } }
-.hero:hover .hero__col, .hero:focus-within .hero__col { animation-play-state: paused; }
+.hero__gallery:hover .hero__col { animation-play-state: paused; }
 
 .enquiry {
   width: 100%; align-self: center;
