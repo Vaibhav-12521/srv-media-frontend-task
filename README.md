@@ -11,7 +11,7 @@ custom CSS, and vanilla JavaScript — no frameworks, no build step.**
 ---
 
 ## Table of contents
-1. [Live demo & quick start](#live-demo--quick-start)
+1. [Live demo & quick start](https://srv-media-frontend-task-ochre.vercel.app/)
 2. [Tech stack](#tech-stack)
 3. [Project structure](#project-structure)
 4. [Sections & features](#sections--features)
