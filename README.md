@@ -61,7 +61,7 @@ Then open `http://localhost:5500`.
 | Naming | **BEM** | `block__element--modifier` |
 
 ---
-
+ 
 ## Project structure
 
 ```
