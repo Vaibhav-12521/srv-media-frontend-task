@@ -15,7 +15,7 @@ custom CSS, and vanilla JavaScript — no frameworks, no build step.**
 2. [Tech stack](#tech-stack)
 3. [Project structure](#project-structure)
 4. [Sections & features](#sections--features)
-5. [Accessibility](#accessibility)
+5. [Accessibility](#accessibility) 
 6. [Responsiveness](#responsiveness)  
 7. [Performance](#performance)
 8. [Browser support](#browser-support)
