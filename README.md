@@ -1,9 +1,9 @@
 # Premier Schools Exhibition (PSE) - Landing Page
 
 A pixel-perfect, fully responsive, accessible landing page for the **Premier
-Schools Exhibition**, built for the **SRV Media — Frontend Developer**
+Schools Exhibition**, built for the **SRV Media - Frontend Developer**
 assignment. Implemented from the provided Figma design using **semantic HTML5, 
-custom CSS, and vanilla JavaScript — no frameworks, no build step.**
+custom CSS, and vanilla JavaScript - no frameworks, no build step.**
 
 > ### 🔗 Live demo: **https://srv-media-frontend-task-ochre.vercel.app/**
 > Deployed on Vercel.
