@@ -18,7 +18,7 @@ custom CSS, and vanilla JavaScript — no frameworks, no build step.**
 5. [Accessibility](#accessibility) 
 6. [Responsiveness](#responsiveness)  
 7. [Performance](#performance)
-8. [Browser support](#browser-support)
+8. [Browser support](#browser-support) 
 9. [Design fidelity](#design-fidelity)
 10. [QA checklist](#qa-checklist)
 11. [Assignment guidelines — compliance](#assignment-guidelines--compliance)
